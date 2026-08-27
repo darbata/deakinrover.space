@@ -1,5 +1,3 @@
-"use client";
-
 export function VideoEmbed ({videoId} : {videoId: string}) {
     return (
         <div className="mx-auto aspect-video w-full max-w-4xl md:my-24">
